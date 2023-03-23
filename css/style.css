@@ -1,0 +1,21 @@
+body {
+  background-color: #f8e8a6;
+}
+h1,
+p {
+  text-align: center;
+}
+img {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+.links {
+  text-align: center;
+  margin-top: 20px;
+}
+.links a {
+  text-align: center;
+  margin: 0 5px;
+  color: green;
+}
